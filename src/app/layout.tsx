@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter as FontSans } from 'next/font/google'
-import localFont from 'next/font/local'
+import { Inter as FontSans, Outfit as FontHeading } from 'next/font/google'
 import { Header } from '@/components/layout/header'
 import './globals.css'
 
@@ -9,9 +8,8 @@ const fontSans = FontSans({
   variable: '--font-sans',
 })
 
-// You can replace this with any font you prefer
-const fontHeading = localFont({
-  src: '../assets/fonts/CalSans-SemiBold.woff2',
+const fontHeading = FontHeading({
+  subsets: ['latin'],
   variable: '--font-heading',
 })
 
