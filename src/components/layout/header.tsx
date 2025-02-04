@@ -8,7 +8,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-8">
           <Link href="/" className="font-heading text-xl font-bold">
-            Tim Azimov
+            Azimov AI
           </Link>
           <NavigationMenu>
             <NavigationMenuList className="gap-6">

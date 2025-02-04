@@ -18,7 +18,7 @@ const chapters = [
 ]
 
 const features = [
-  "12 weeks of structured learning",
+  "6 weeks of structured learning",
   "Real-world project work",
   "AI tools evaluation framework",
   "Private community access",
@@ -67,7 +67,7 @@ export function CourseSection() {
             </CardHeader>
             <CardContent>
               <div className="flex items-baseline gap-2 mb-6">
-                <span className="text-4xl font-bold">$999</span>
+                <span className="text-4xl font-bold">$99</span>
                 <span className="text-gray-600">one-time payment</span>
               </div>
               <Button className="w-full" size="lg">
@@ -83,7 +83,7 @@ export function CourseSection() {
             </CardHeader>
             <CardContent>
               <div className="flex items-baseline gap-2 mb-6">
-                <span className="text-4xl font-bold">$1499</span>
+                <span className="text-4xl font-bold">$299</span>
                 <span className="text-gray-600">one-time payment</span>
               </div>
               <Button className="w-full" size="lg" variant="default">

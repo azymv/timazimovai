@@ -1,6 +1,7 @@
 import { Hero } from "@/components/sections/hero"
 import { CourseSection } from "@/components/sections/course"
 import { ResourcesSection } from "@/components/sections/resources"
+import { EbookSection } from "@/components/sections/ebook"
 
 export default function HomePage() {
   return (
@@ -8,6 +9,7 @@ export default function HomePage() {
       <Hero />
       <CourseSection />
       <ResourcesSection />
+      <EbookSection />
     </>
   )
 }
