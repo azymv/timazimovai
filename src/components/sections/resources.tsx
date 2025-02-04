@@ -4,18 +4,18 @@ import { Download } from "lucide-react"
 
 const resources = [
   {
-    title: "AI Product Discovery Framework",
-    description: "A step-by-step framework for identifying AI opportunities in your product, including templates and assessment tools.",
-    downloadUrl: "#",
-  },
-  {
-    title: "AI Feature Prioritization Canvas",
-    description: "Evaluate and prioritize AI features with this structured canvas, considering feasibility, impact, and resources.",
+    title: "Prompts for planning products",
+    description: "Collection of prompts that helps bulding apps and planning product features",
     downloadUrl: "#",
   },
   {
     title: "AI Tools for PMs - Comparison Guide",
-    description: "Detailed comparison of popular AI tools and platforms for product management tasks.",
+    description: "Evaluate and prioritize AI features with this structured canvas, considering feasibility, impact, and resources.",
+    downloadUrl: "#",
+  },
+  {
+    title: "Pitchdecks of 40 YC startups",
+    description: "40 pitch decks from top startups that secured $460M+ in funding.",
     downloadUrl: "#",
   },
 ]
