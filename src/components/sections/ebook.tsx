@@ -17,7 +17,7 @@ export function EbookSection() {
             <div className="flex flex-col gap-4 mb-8">
               <div className="flex items-center gap-2">
                 <BookOpen className="h-5 w-5 text-accent" />
-                <span>50+ pages of practical insights</span>
+                <span>20+ pages of practical insights</span>
               </div>
               <div className="flex items-center gap-2">
                 <BookOpen className="h-5 w-5 text-accent" />
@@ -25,7 +25,7 @@ export function EbookSection() {
               </div>
               <div className="flex items-center gap-2">
                 <BookOpen className="h-5 w-5 text-accent" />
-                <span>Step-by-step implementation guides</span>
+                <span>Best implementation frameworks</span>
               </div>
             </div>
           </div>

@@ -2,6 +2,7 @@ import { Hero } from "@/components/sections/hero"
 import { CourseSection } from "@/components/sections/course"
 import { ResourcesSection } from "@/components/sections/resources"
 import { EbookSection } from "@/components/sections/ebook"
+import { NewsletterSection } from "@/components/sections/newsletter"
 
 export default function HomePage() {
   return (
@@ -10,6 +11,7 @@ export default function HomePage() {
       <CourseSection />
       <ResourcesSection />
       <EbookSection />
+      <NewsletterSection />
     </>
   )
 }
