@@ -67,7 +67,7 @@ export function CourseSection() {
               </CardHeader>
               <CardContent>
                 <div className="flex items-baseline gap-2 mb-6">
-                  <span className="text-4xl font-bold">$999</span>
+                  <span className="text-4xl font-bold">$99</span>
                   <span className="text-gray-600">one-time payment</span>
                 </div>
                 <div className="space-y-4 mb-6">
@@ -91,7 +91,7 @@ export function CourseSection() {
               </CardHeader>
               <CardContent>
                 <div className="flex items-baseline gap-2 mb-6">
-                  <span className="text-4xl font-bold">$1499</span>
+                  <span className="text-4xl font-bold">$199</span>
                   <span className="text-gray-600">one-time payment</span>
                 </div>
                 <div className="space-y-4 mb-6">
