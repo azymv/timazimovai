@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { BookOpen, CheckCircle2, Users } from "lucide-react"
+import { CheckCircle2 } from "lucide-react"
 
 const chapters = [
   {
