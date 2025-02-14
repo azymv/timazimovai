@@ -8,8 +8,6 @@ export default function HomePage() {
   return (
     <>
       <Hero />
-      <CourseSection />
-      <ResourcesSection />
       <EbookSection />
       <NewsletterSection />
     </>
